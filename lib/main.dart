@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           title: Text(
-            'My home page',
+            'PetStory',
           ),
         ),
       ),
